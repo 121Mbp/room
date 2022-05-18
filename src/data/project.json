@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "서머너즈워: 크로니클 사전예약",
+    "date": "2022",
+    "image": "/assets/project/chronicles.jpg",
+    "description": "사전예약 사이트 구축",
+    "url": "https://summonerswar.com/ko/chronicles/pre_register",
+    "tag": ["html", "css", "javascript", "jquery"]
+  },
+  {
+    "id": 2,
+    "name": "서머너즈워: 백년전쟁",
+    "date": "2021",
+    "image": "/assets/project/lostcenturia.jpg",
+    "description": "브랜드사이트 구축",
+    "url": "https://summonerswar.com/ko/lostcenturia",
+    "tag": ["html", "css", "javascript", "jquery"]
+  },
+  {
+    "id": 3,
+    "name": "커뮤니티 포럼",
+    "date": "2021",
+    "image": "/assets/project/community.jpg",
+    "description": "반응형 사이트 구축",
+    "url": "https://cpbv-community.com2us.com/",
+    "tag": ["html", "css", "javascript", "jquery"]
+  },
+  {
+    "id": 4,
+    "name": "하이브",
+    "date": "2020",
+    "image": "/assets/project/hive.jpg",
+    "description": "PC. Mobile 4.0 부분 리뉴얼",
+    "url": "https://www.withhive.com/",
+    "tag": ["html", "css", "javascript", "jquery"]
+  },
+  {
+    "id": 5,
+    "name": "챗봇",
+    "date": "2019",
+    "image": "/assets/project/chatbot.png",
+    "description": "웹뷰용 프론트 페이지 구축(디자인 변경 및 시나리오 세팅)",
+    "url": "https://121mbp.github.io/chatbot/",
+    "tag": ["html", "css", "javascript", "jquery"]
+  },
+  {
+    "id": 6,
+    "name": "비즈멜론",
+    "date": "2018",
+    "image": "/assets/project/bizmelon.jpg",
+    "description": "반응형 사이트 구축",
+    "url": "https://www.bizmelon.co.kr/",
+    "tag": ["html", "css", "javascript", "jquery"]
+  },
+  {
+    "id": 7,
+    "name": "멜론 뮤직 어워드",
+    "date": "2017",
+    "image": "/assets/project/mma.jpg",
+    "description": "PC. Mobile 리뉴얼",
+    "url": "https://www.melon.com/melonaward/weekAward.htm",
+    "tag": ["html", "css", "javascript", "jquery"]
+  },
+  {
+    "id": 8,
+    "name": "Melon",
+    "date": "2017",
+    "image": "/assets/project/melon.png",
+    "description": "멜론 3.0 PC 리뉴얼",
+    "textColor": "black",
+    "url": "https://www.melon.com",
+    "tag": ["html", "css", "javascript", "jquery"]
+  }
+]
