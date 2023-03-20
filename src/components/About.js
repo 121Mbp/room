@@ -6,7 +6,7 @@ const skill = [
     {type: 'Javascript', color: 'js'},
     {type: 'Jquery', color: 'python'},
     {type: 'Git', color: 'git'},
-    {type: 'React', color: 'react'},
+    /*{type: 'React', color: 'react'},*/
     {type: 'Scss', color: 'scss'},
     {type: 'Angular', color: 'angular'}
 ]

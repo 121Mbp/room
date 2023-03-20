@@ -1,5 +1,6 @@
 import Layout from './components/Layout';
 import Project from './components/Project';
+import Activity from './components/Activity';
 import About from './components/About';
 import Contact from './components/Contact';
 import Information from './components/Information';
@@ -31,6 +32,10 @@ function App(props) {
         active={state}
         setActive={setState}
       ></Project>
+      <Activity
+        active={state}
+        setActive={setState}
+      ></Activity>
       <About
         active={state}
         setActive={setState}

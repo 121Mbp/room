@@ -3,7 +3,7 @@ import Window from './Window';
 const icons = [
     /*{name: 'email', uri: 'mailto:nino09@naver.com'},*/
     {name: 'github', uri: 'https://github.com/121Mbp'},
-    {name: 'instagram', uri: 'https://www.instagram.com/_kevinworld/'},
+    {name: 'instagram', uri: 'https://www.instagram.com/'},
     {name: 'facebook', uri: 'https://www.facebook.com/'},
     {name: 'twitter', uri: 'https://www.twitter.com/'},
 ];

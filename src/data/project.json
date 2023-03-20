@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "서머너즈워: 크로니클 사전예약",
+    "name": "연간 프로모션 지표",
     "date": "2022",
-    "image": "/assets/project/chronicles.jpg",
-    "description": "사전예약 사이트 구축",
-    "url": "https://summonerswar.com/ko/chronicles/pre_register",
+    "image": "/assets/project/task.jpg",
+    "description": "팀의 프로모션 관리 차트",
+    "url": "https://121mbp.github.io/task/",
     "tag": ["html", "css", "javascript", "jquery"]
   },
   {
