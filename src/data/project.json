@@ -1,51 +1,87 @@
 [
   {
     "id": 1,
-    "name": "연간 프로모션 지표",
-    "date": "2022",
-    "image": "/assets/project/task.jpg",
-    "description": "팀의 프로모션 관리 차트",
-    "url": "https://121mbp.github.io/task/",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "name": "크로니클 X 튜토리얼 탑의 고인물 사전예약 사이트",
+    "date": "2023",
+    "image": "/assets/project/collab.gif",
+    "description": "반응형 사전예약 사이트 구축",
+    "url": "",
+    "tag": ["html", "scss", "javascript", "jquery"]
   },
   {
     "id": 2,
-    "name": "서머너즈워: 백년전쟁",
+    "name": "미니게임천국 브랜드사이트",
+    "date": "2022",
+    "image": "/assets/project/minigame.gif",
+    "description": "플레이어블 웹 연동 구현",
+    "url": "",
+    "tag": ["html", "scss", "javascript", "jquery"]
+  },
+  {
+    "id": 3,
+    "name": "미니게임천국 인형뽑기",
+    "date": "2022",
+    "image": "/assets/project/game.gif",
+    "description": "인형뽑기 게임 구현",
+    "url": "",
+    "tag": ["html", "scss", "javascript", "jquery"]
+  },
+  {
+    "id": 4,
+    "name": "크로니클 사전예약",
+    "date": "2022",
+    "image": "/assets/project/chronicles.gif",
+    "description": "반응형 사전예약 사이트 구축",
+    "url": "",
+    "tag": ["html", "scss", "javascript", "jquery"]
+  },
+  {
+    "id": 5,
+    "name": "서머너즈워: 백년전쟁 브랜드사이트",
     "date": "2021",
     "image": "/assets/project/lostcenturia.jpg",
-    "description": "브랜드사이트 구축",
+    "description": "반응형 브랜드사이트 구축",
     "url": "https://summonerswar.com/ko/lostcenturia",
     "tag": ["html", "css", "javascript", "jquery"]
   },
   {
-    "id": 3,
+    "id": 6,
     "name": "커뮤니티 포럼",
     "date": "2021",
     "image": "/assets/project/community.jpg",
-    "description": "반응형 사이트 구축",
+    "description": "게임 커뮤니티 플랫폼 구축",
     "url": "https://cpbv-community.com2us.com/",
     "tag": ["html", "css", "javascript", "jquery"]
   },
   {
-    "id": 4,
+    "id": 7,
+    "name": "연간 프로모션 지표",
+    "date": "2020",
+    "image": "/assets/project/task.jpg",
+    "description": "팀의 프로모션을 API로 불러와 연간별 차트로 구현",
+    "url": "https://121mbp.github.io/task/",
+    "tag": ["html", "css", "javascript", "jquery"]
+  },
+  {
+    "id": 8,
     "name": "하이브",
     "date": "2020",
     "image": "/assets/project/hive.jpg",
-    "description": "PC. Mobile 4.0 부분 리뉴얼",
+    "description": "PC, Mobile 4.0 부분 리뉴얼",
     "url": "https://www.withhive.com/",
     "tag": ["html", "css", "javascript", "jquery"]
   },
   {
-    "id": 5,
+    "id": 9,
     "name": "챗봇",
     "date": "2019",
     "image": "/assets/project/chatbot.png",
-    "description": "웹뷰용 프론트 페이지 구축(디자인 변경 및 시나리오 세팅)",
+    "description": "웹뷰 프론트 페이지 구축",
     "url": "https://121mbp.github.io/chatbot/",
     "tag": ["html", "css", "javascript", "jquery"]
   },
   {
-    "id": 6,
+    "id": 10,
     "name": "비즈멜론",
     "date": "2018",
     "image": "/assets/project/bizmelon.jpg",
@@ -54,21 +90,20 @@
     "tag": ["html", "css", "javascript", "jquery"]
   },
   {
-    "id": 7,
+    "id": 11,
     "name": "멜론 뮤직 어워드",
     "date": "2017",
     "image": "/assets/project/mma.jpg",
-    "description": "PC. Mobile 리뉴얼",
+    "description": "PC, Mobile 리뉴얼",
     "url": "https://www.melon.com/melonaward/weekAward.htm",
     "tag": ["html", "css", "javascript", "jquery"]
   },
   {
-    "id": 8,
+    "id": 12,
     "name": "Melon",
     "date": "2017",
     "image": "/assets/project/melon.png",
     "description": "멜론 3.0 PC 리뉴얼",
-    "textColor": "black",
     "url": "https://www.melon.com",
     "tag": ["html", "css", "javascript", "jquery"]
   }

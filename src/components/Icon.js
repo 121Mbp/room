@@ -5,7 +5,7 @@ function Icon(props){
             window.open(`mailto:${props.email}`);
             return;
         }else if(props.name === 'activity'){
-            alert('작업중 입니다.');
+            alert('준비중 입니다.');
         }else{
             props.setActive(true);
         }

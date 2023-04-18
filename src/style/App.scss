@@ -5,7 +5,7 @@ $blur: 16px;
 $dock-height: 4.5rem;
 $icon-size: 2rem;
 $category: (projects, activity, about, terminal, browser, email, contact, information);
-$years: (all, 2022, 2021, 2020, 2019, 2018, 2017, 2016);
+$years: (all, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016);
 $icons: (email, instagram, facebook, line, github, twitter);
 
 //window header
@@ -289,12 +289,16 @@ body,
 }
 
 .about__profile {
-    padding-top: 4rem;
+    display: flex;
+    height: calc(100% - 2em);
+    margin-top: 1.6em;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     color: $mask;
 
     &__photo {
-        width: 32%;
-        margin: auto;
+        width: 30%;    
         overflow: hidden;
     }
 
@@ -305,7 +309,7 @@ body,
     &__name {
         & > p {
             margin: 1rem 0;
-            font-size: 1.2rem;
+            font-size: 1.1rem;
             text-align: center;
         }
     }
