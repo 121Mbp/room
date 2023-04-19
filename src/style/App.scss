@@ -38,7 +38,7 @@ $colors: (
     html: #e34c26,
     css: #563d7c,
     scss: #c6538c,
-    python: #3f7287,
+    jquery: #3f7287,
     vue: #64b587,
     react: #81d8f7,
     angular: #cb2c38,
@@ -500,6 +500,20 @@ body,
                     color: $mask;
                     font-size: 0.9rem;
                     z-index: 2;
+                }
+
+                &__skill {
+                    position: absolute;
+                    bottom: .6rem;
+                    right: 1rem;
+                    z-index: 2;
+                        > span {
+                            margin: 0 .2rem;
+                            padding: .2rem .4rem;
+                            border-radius: 6px; 
+                            color: $mask;
+                            font-size: 0.9rem;   
+                    }
                 }
             }
 

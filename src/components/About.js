@@ -4,7 +4,7 @@ const skill = [
     {type: 'Html', color: 'html'},
     {type: 'Css', color: 'css'},
     {type: 'Javascript', color: 'js'},
-    {type: 'Jquery', color: 'python'},
+    {type: 'Jquery', color: 'jquery'},
     {type: 'Git', color: 'git'},
     /*{type: 'React', color: 'react'},*/
     {type: 'Scss', color: 'scss'},

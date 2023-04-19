@@ -32,6 +32,7 @@ function History(){
                     <div key={item.id} data-year={item.date} className='project__container__list__item' onClick={() => {(item.url !== '') ? window.open(item.url, '_blank') : alert('소스를 제공할 수 없습니다.')}}>
                         <div className='project__container__list__item__thumb' style={{backgroundImage: 'url('+ process.env.PUBLIC_URL + item.image +')'}}>
                             <div className='project__container__list__item__thumb__year'>{item.date}</div>
+                            <div className='project__container__list__item__thumb__skill'>{item.tag.map((skill) => <span className={'background-' + skill.toLowerCase()}>{skill}</span>)}</div>
                         </div>
                         <dl className='project__container__list__item__info'>
                             <dt>{item.name}</dt>

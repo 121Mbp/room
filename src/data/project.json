@@ -6,7 +6,7 @@
     "image": "/assets/project/collab.gif",
     "description": "반응형 사전예약 사이트 구축",
     "url": "",
-    "tag": ["html", "scss", "javascript", "jquery"]
+    "tag": ["Html", "Scss", "Js", "Jquery"]
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "image": "/assets/project/minigame.gif",
     "description": "플레이어블 웹 연동 구현",
     "url": "",
-    "tag": ["html", "scss", "javascript", "jquery"]
+    "tag": ["Html", "Scss", "Js", "Jquery"]
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "image": "/assets/project/game.gif",
     "description": "인형뽑기 게임 구현",
     "url": "",
-    "tag": ["html", "scss", "javascript", "jquery"]
+    "tag": ["Html", "Scss", "Js", "Jquery"]
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "image": "/assets/project/chronicles.gif",
     "description": "반응형 사전예약 사이트 구축",
     "url": "",
-    "tag": ["html", "scss", "javascript", "jquery"]
+    "tag": ["Html", "Scss", "Js", "Jquery"]
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "image": "/assets/project/lostcenturia.jpg",
     "description": "반응형 브랜드사이트 구축",
     "url": "https://summonerswar.com/ko/lostcenturia",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "image": "/assets/project/community.jpg",
     "description": "게임 커뮤니티 플랫폼 구축",
     "url": "https://cpbv-community.com2us.com/",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "image": "/assets/project/task.jpg",
     "description": "팀의 프로모션을 API로 불러와 연간별 차트로 구현",
     "url": "https://121mbp.github.io/task/",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "image": "/assets/project/hive.jpg",
     "description": "PC, Mobile 4.0 부분 리뉴얼",
     "url": "https://www.withhive.com/",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "image": "/assets/project/chatbot.png",
     "description": "웹뷰 프론트 페이지 구축",
     "url": "https://121mbp.github.io/chatbot/",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "image": "/assets/project/bizmelon.jpg",
     "description": "반응형 사이트 구축",
     "url": "https://www.bizmelon.co.kr/",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "image": "/assets/project/mma.jpg",
     "description": "PC, Mobile 리뉴얼",
     "url": "https://www.melon.com/melonaward/weekAward.htm",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
     "id": 12,
@@ -105,6 +105,6 @@
     "image": "/assets/project/melon.png",
     "description": "멜론 3.0 PC 리뉴얼",
     "url": "https://www.melon.com",
-    "tag": ["html", "css", "javascript", "jquery"]
+    "tag": ["Html", "Css", "Js", "Jquery"]
   }
 ]
