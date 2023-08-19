@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "크로니클 X 튜토리얼 탑의 고인물 사전예약 사이트",
+    "name": "크로니클 X 튜토리얼 탑의 고인물 사전예약",
     "date": "2023",
     "image": "/assets/project/collab.gif",
     "description": "반응형 사전예약 사이트 구축",
@@ -12,9 +12,9 @@
     "id": 2,
     "name": "미니게임천국 브랜드사이트",
     "date": "2022",
-    "image": "/assets/project/minigame.gif",
+    "image": "/assets/project/minigame.jpg",
     "description": "플레이어블 웹 연동 구현",
-    "url": "",
+    "url": "https://minigame-party.com/",
     "tag": ["Html", "Scss", "Js", "Jquery"]
   },
   {
