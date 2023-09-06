@@ -10,6 +10,24 @@
   },
   {
     "id": 2,
+    "name": "미니게임천국 인형뽑기",
+    "date": "2022",
+    "image": "/assets/project/game.gif",
+    "description": "인형뽑기 게임 구현",
+    "url": "",
+    "tag": ["Html", "Scss", "Js", "Jquery"]
+  },
+  {
+    "id": 3,
+    "name": "크로니클 사전예약",
+    "date": "2022",
+    "image": "/assets/project/chronicles.gif",
+    "description": "반응형 사전예약 사이트 구축",
+    "url": "",
+    "tag": ["Html", "Scss", "Js", "Jquery"]
+  },
+  {
+    "id": 4,
     "name": "서머너즈워: 백년전쟁 브랜드사이트",
     "date": "2021",
     "image": "/assets/project/lostcenturia.jpg",
@@ -18,7 +36,7 @@
     "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "커뮤니티 포럼",
     "date": "2021",
     "image": "/assets/project/community.jpg",
@@ -27,7 +45,7 @@
     "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "연간 프로모션 지표",
     "date": "2020",
     "image": "/assets/project/task.jpg",
@@ -36,7 +54,7 @@
     "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "하이브",
     "date": "2020",
     "image": "/assets/project/hive.jpg",
@@ -45,7 +63,7 @@
     "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
-    "id": 6,
+    "id": 8,
     "name": "챗봇",
     "date": "2019",
     "image": "/assets/project/chatbot.png",
@@ -54,7 +72,7 @@
     "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "비즈멜론",
     "date": "2018",
     "image": "/assets/project/bizmelon.jpg",
@@ -63,7 +81,7 @@
     "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
-    "id": 8,
+    "id": 10,
     "name": "멜론 뮤직 어워드",
     "date": "2017",
     "image": "/assets/project/mma.jpg",
@@ -72,7 +90,7 @@
     "tag": ["Html", "Css", "Js", "Jquery"]
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "Melon",
     "date": "2017",
     "image": "/assets/project/melon.png",
